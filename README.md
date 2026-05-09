@@ -2,6 +2,8 @@
 
 > ⚠️ **Aviso Legal / Disclaimer** — veja ao final do documento.
 
+> 🇧🇷 [Português](#português) | 🇺🇸 [English](#english)
+
 ---
 
 ## Português
